@@ -4,7 +4,7 @@
  *
  * This is the functions.php for the ProudCity subtheme
  */
-define('PROUD_CHILD_THEME_ADVANCED', false);
+define('PROUD_CHILD_THEME_ADVANCED', true);
 
 /**
  * Add child theme asssets
